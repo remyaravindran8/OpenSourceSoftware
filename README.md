@@ -6,3 +6,6 @@ Lab Assignment
 - Remya Ravindran
 - 2020hs70039
 - 2020 4Yr
+
+## Colaborator 2
+- Anurag Batra (2020HS70048)
